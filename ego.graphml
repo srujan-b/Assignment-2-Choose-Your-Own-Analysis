@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="followerCount" attr.type="long"/>
+<graph edgedefault="directed"><node id="NextGenAmerica">
+  <data key="d0">64327</data>
+</node>
+<node id="BernieSanders"/>
+<node id="NikemaWilliams">
+  <data key="d0">49553</data>
+</node>
+<node id="shannaforPA">
+  <data key="d0">12856</data>
+</node>
+<node id="TeenVogue">
+  <data key="d0">3305260</data>
+</node>
+<node id="donnaimamTX">
+  <data key="d0">23175</data>
+</node>
+<node id="Public_Citizen">
+  <data key="d0">537767</data>
+</node>
+<node id="_karaeastman">
+  <data key="d0">21727</data>
+</node>
+<node id="audreydenney">
+  <data key="d0">7002</data>
+</node>
+<node id="Kunkel4Congress">
+  <data key="d0">3006</data>
+</node>
+<node id="DemConvention">
+  <data key="d0">95561</data>
+</node>
+<edge source="BernieSanders" target="NextGenAmerica"/>
+<edge source="BernieSanders" target="NikemaWilliams"/>
+<edge source="BernieSanders" target="shannaforPA"/>
+<edge source="BernieSanders" target="TeenVogue"/>
+<edge source="BernieSanders" target="donnaimamTX"/>
+<edge source="BernieSanders" target="Public_Citizen"/>
+<edge source="BernieSanders" target="_karaeastman"/>
+<edge source="BernieSanders" target="audreydenney"/>
+<edge source="BernieSanders" target="Kunkel4Congress"/>
+<edge source="BernieSanders" target="DemConvention"/>
+</graph></graphml>
